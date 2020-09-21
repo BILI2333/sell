@@ -21,5 +21,9 @@ server:
 #  level:
 #    com.sblueice.controller: com.imooc.sell.LoggerTest:debug
 wechat:
-  maAppId: wx293b159deb132d81
-  mpAppSecret: cf34be81b3e808f12e5967c1189d23b9
+  myAppId: wx293b159deb132d81
+  myAppSecret: cf34be81b3e808f12e5967c1189d23b9
+  mchId:
+  mchKey:
+  keyPath:
+  notifyUrl:http://sellol.nat300.top/sell/pay/notify
